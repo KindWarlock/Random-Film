@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Film</string>
+    <string-array name="films">
+        <item>Молчание Ягнят</item>
+        <item>Пила</item>
+        <item>Солнцестояние</item>
+        <item>Драйв</item>
+        <item>Шрэк</item>
+        <item>Властелин Колец</item>
+    </string-array>
+    <string name="film">Фильм!</string>
+</resources>
